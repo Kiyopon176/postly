@@ -1,0 +1,26 @@
+name: post_test
+description: Premium editorial client for JSONPlaceholder
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio:
+  equatable:
+  flutter_bloc:
+  get_it:
+  go_router:
+  injectable:
+  shared_preferences:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
