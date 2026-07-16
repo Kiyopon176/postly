@@ -2,6 +2,14 @@
 
 Postly — Flutter-клиент для просмотра публикаций, авторов и комментариев. Приложение использует реальный REST API DummyJSON, поддерживает поиск и фильтрацию публикаций, локальное избранное, редактирование и удаление с оптимистичным обновлением интерфейса.
 
+## Демонстрация
+<img width="1080" height="2400" alt="Screenshot_2026-07-16-21-04-50-183_com example post_test" src="https://github.com/user-attachments/assets/b2826305-05c8-4a66-9fb8-65afc2296dea" />
+<img width="1080" height="2400" alt="Screenshot_2026-07-16-21-04-53-525_com example post_test" src="https://github.com/user-attachments/assets/03f83474-2a93-4e0d-8f42-febaed26f5c9" />
+<img width="1080" height="2400" alt="Screenshot_2026-07-16-21-04-57-565_com example post_test" src="https://github.com/user-attachments/assets/aa2aa841-05ff-458d-bc5e-f630824b7542" />
+<img width="1080" height="2400" alt="Screenshot_2026-07-16-21-05-02-507_com example post_test" src="https://github.com/user-attachments/assets/2b3cc3e2-3490-4e2a-931b-17a07543ba34" />
+<img width="1080" height="2400" alt="Screenshot_2026-07-16-21-05-00-455_com example post_test" src="https://github.com/user-attachments/assets/767df375-5eb6-4344-8724-e42720121392" />
+
+
 
 ## Возможности
 
